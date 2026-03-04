@@ -1,4 +1,4 @@
-The New Republic on DJT Grift:
+# The New Republic on DJT Grift:
 
 See: https://newrepublic.com/article/205924/trump-witkoff-crypto-bank-scam
 
@@ -62,7 +62,7 @@ Albert Fall</a>, eat your heart out.
 But I digress.
 
 World Liberty Financial was 
-<a href="">
+<a href="https://worldlibertyfinancial.com/about">
 co-founded<?a> in December 2024 by Donald Trump, Witkoff, Trump’s sons (Don Jr., Eric, and young Barron), 
 and Witkoff’s sons (Zach and Andrew). Donald Trump and Steve Witkoff are now listed as “co-founder 
 emeritus.” The company is frequently described as “Trump-backed,” but I’ve never encountered evidence 
