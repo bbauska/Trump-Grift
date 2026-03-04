@@ -1,4 +1,4 @@
-# The New Republic on DJT Grift:
+<h1>The New Republic on DJT Grift:</h1>
 
 See: https://newrepublic.com/article/205924/trump-witkoff-crypto-bank-scam
 
@@ -7,7 +7,7 @@ this kleptocratic scheme tiptoed past me earlier this month while I was distract
 <a href="https://newrepublic.com/article/204962/taking-venezuela-oil-trump-economy">
 invasion of Venezuela</a>, the <a href="https://newrepublic.com/article/205209/stock-market-jerome-powell-trump">
 phony criminal investigation of Jerome Powell, the 
-<a href="">
+<a href="https://newrepublic.com/article/205530/trump-american-decline-tour-davos">
 Greenland invasion scare</a>, 
 <a href="https://www.pbs.org/newshour/nation/a-second-u-s-citizen-was-killed-by-federal-forces-in-minneapolis-heres-what-we-know">
 ICE’s rising body count</a> (<a href="https://www.theguardian.com/us-news/2026/jan/28/deaths-ice-2026-">
@@ -20,7 +20,11 @@ crypto firm,
 <a href="https://worldlibertyfinancial.com/">
 World Liberty Financial</a>, filed an 
 <a href="https://occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/world-liberty-trust-company.pdf">
-application</a> January 9 with the Office of the Comptroller of the Currency, or OCC, to charter a “trust bank” that will be called World Liberty Trust Company. A trust bank is a bank that doesn’t accept deposits or issue loans. The purpose of the bank would be to manage USD1, a stablecoin that World Liberty Financial created last March. USD1 is already the fifth-largest stablecoin in the world, with a market capitalization (Donald Trump Jr. announced December 28) of $5 billion.
+application</a> January 9 with the Office of the Comptroller of the Currency, or OCC, to charter a 
+“trust bank” that will be called World Liberty Trust Company. A trust bank is a bank that doesn’t 
+accept deposits or issue loans. The purpose of the bank would be to manage USD1, a stablecoin that 
+World Liberty Financial created last March. USD1 is already the fifth-largest stablecoin in the 
+world, with a market capitalization (Donald Trump Jr. announced December 28) of $5 billion.
 
 If you aren’t a cybercurrency person but nonetheless feel that “USD1” rings a bell, that’s probably 
 because last May the United Arab Emirates purchased, from World Liberty Financial, $2 billion of 
@@ -63,7 +67,7 @@ But I digress.
 
 World Liberty Financial was 
 <a href="https://worldlibertyfinancial.com/about">
-co-founded</a> in December 2024 by Donald Trump, Witkoff, Trump’s sons (Don Jr., Eric, and young Barron), 
+co-founded<?a> in December 2024 by Donald Trump, Witkoff, Trump’s sons (Don Jr., Eric, and young Barron), 
 and Witkoff’s sons (Zach and Andrew). Donald Trump and Steve Witkoff are now listed as “co-founder 
 emeritus.” The company is frequently described as “Trump-backed,” but I’ve never encountered evidence 
 that a Trump family member has put so much as a nickel into this venture. The Trumps do, however, extract 
@@ -76,7 +80,11 @@ Trumps sold 37 percent of their stake, or how much they got paid for it, even th
 
 No Trump names appear on the 
 <a href="https://occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/world-liberty-trust-company.pdf">
-application</a> to the OCC to create World Liberty Trust Company. The application lists the proposed trust bank’s notional president as Zach Witkoff, who is also chairman and president of World Liberty Financial. The proposed bank’s notional board members include Zach; Zach’s uncle (Steve’s brother) Robert Witkoff; and Scott Alper, who’s president of the Witkoff Group, Steve Witkoff’s real estate firm. The bank would share office space with World Liberty Financial in Bar Harbor Islands, Florida.
+application</a> to the OCC to create World Liberty Trust Company. The application lists the proposed 
+trust bank’s notional president as Zach Witkoff, who is also chairman and president of World Liberty 
+Financial. The proposed bank’s notional board members include Zach; Zach’s uncle (Steve’s brother) 
+Robert Witkoff; and Scott Alper, who’s president of the Witkoff Group, Steve Witkoff’s real estate 
+firm. The bank would share office space with World Liberty Financial in Bar Harbor Islands, Florida.
 
 Why does World Liberty Financial want a trust bank? Because 
 <a href="https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf">
@@ -109,9 +117,22 @@ questions.” In addition, it seems to me, a president who’s already demonstra
 policy to his political advantage probably wouldn’t balk at tilting it also to his commercial advantage 
 (though not being familiar with the mechanics of the Fed’s master accounts, I can’t tell you exactly how).
 
-“We have never seen financial conflicts or corruption of this magnitude,” Warren said in her January 13 letter. You can say that again. Constitutional emoluments-clause concerns about Trump’s Pennsylvania Avenue hotel during his first term now seem quaint. The nonprofit Citizens for Responsibility and Ethics in Washington, or CREW, sued Trump back then for violating the emoluments clauses. CREW prevailed in lower courts, but when it got to the Supreme Court the justices quietly set the matter aside until Trump left office so that they could declare it moot.
+“We have never seen financial conflicts or corruption of this magnitude,” Warren said in her January 13 
+letter. You can say that again. Constitutional emoluments-clause concerns about Trump’s Pennsylvania Avenue 
+hotel during his first term now seem quaint. The nonprofit Citizens for Responsibility and Ethics in Washington, 
+or CREW, sued Trump back then for violating the emoluments clauses. CREW prevailed in lower courts, but when 
+it got to the Supreme Court the justices quietly set the matter aside until Trump left office so that they 
+could declare it moot.
 
-I asked Jordan Libowitz, CREW’s communications director, why CREW didn’t file a new lawsuit when Trump returned to the White House. He said that a legal challenge based on Trump’s crypto holdings would be more difficult because CREW would need to find a fintech company with standing to sue the president, and those don’t grow on trees. (Last time, the District of Columbia had standing because it owned a rival hotel in the District.) “Trump is quite popular in the crypto space,” Libowitz observed. But yes, “the grift and corruption is on a scale way beyond what we saw in the first term.”
+I asked Jordan Libowitz, CREW’s communications director, why CREW didn’t file a new lawsuit when Trump returned 
+to the White House. He said that a legal challenge based on Trump’s crypto holdings would be more difficult 
+because CREW would need to find a fintech company with standing to sue the president, and those don’t grow on 
+trees. (Last time, the District of Columbia had standing because it owned a rival hotel in the District.) “Trump 
+is quite popular in the crypto space,” Libowitz observed. But yes, “the grift and corruption is on a scale way 
+beyond what we saw in the first term.”
 
-But surely some effort should be mounted to file an emoluments challenge again, if not by CREW (they’ve done their bit) then by someone else. Our president is totally out of control. A plaintiff with standing must be out there someplace. If you’re reading this and you’re a smart public interest lawyer, please give this half an hour of your time to think through.
+But surely some effort should be mounted to file an emoluments challenge again, if not by CREW (they’ve done 
+their bit) then by someone else. Our president is totally out of control. A plaintiff with standing must be 
+out there someplace. If you’re reading this and you’re a smart public interest lawyer, please give this half 
+an hour of your time to think through.
 
