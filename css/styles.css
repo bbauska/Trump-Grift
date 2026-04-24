@@ -1,4 +1,4 @@
-/* css/styles.css of bbauska/trump-2025-grift making trump-2025-grift.bauska.org */
+/* css/styles.css of bbauska/trump-2025-grift making trump-grift-25.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
@@ -32,9 +32,9 @@ body {
 
 /*** OPEN BOOK ***/
 .open-book {
-  background: #fff;  /* white */
+  background: #ffffff;  /* white */
   box-shadow: rgba(0,0,0,0.5) 0 1em 3em;
-  color: #000;  /* black */
+  color: #000000;  /* black */
   padding: 2em;
 }
 .open-book * {
