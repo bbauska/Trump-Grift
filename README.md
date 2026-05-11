@@ -2,7 +2,7 @@
 <h1 id="#trump-2025">Trump Grift (2016-2019 &amp; 2025-2028)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A little background<br>
-<p>First off, imagine being so ignorant as to believe Trump. In his first time, over 30,000 lies were spoken by this crack-head." 2nd term, I'm guessing he's already beat that number. And it's only been 1 and 1/2 years.</p>
+<p>First off, imagine being so ignorant as to believe Trump. In his first 4-year term, over 30,000 lies were spoken by this crack-head." 2nd term, I'm guessing he's already beat that number. And it's only been 1 and 1/2 years.</p>
 <p>Donald Trump has made tens of thousands of lies. These have cost human lives.</p>
 <p>Fact-checkers at The Washington Post documented 30,573 false or misleading claims during 
 his first presidential term (2016-2020), an average of 21 per day. The Toronto Star tallied 5,276 
