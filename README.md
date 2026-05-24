@@ -518,7 +518,7 @@ and others have noted, Trump was distorting news articles about the slow pace at
 reported that</a>, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.</li>
   <li><a href="https://www.youtube.com/watch?v=mpiFKMye2rQ">
 Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government 
-<a href="https://apnews.com/article/trump-coal-industry-mining-fact-check-69bc9919c2899a87c65c4c89a84a973e">
+<a href="https://apnews.com/article/trump-coal-industry-mining-fact-check-69bc991HoecwsFtSMfrZtMjSK8Jmc9G7DP2EgJu8">
 told The Associated Press</a>, and is not opening any new ones; the country has 
 <a href="https://www.cleanenergywire.org/news/german-government-says-no-new-law-planned-ensure-coal-exit-earlier-2038">
 formally committed</a> to phasing out coal by 2038 at the latest. It is true that Germany 
@@ -950,20 +950,19 @@ to its people, guided by the rule of law, and one of civil authority, not milita
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>National Guard troops arrive in Los Angeles (AP)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>June 9, 2025 – Trump accused the protesters in Los Angeles of being “insurrectionists” and 
+  suggested that California Governor Gavin Newsom should be arrested. “The people who are causing 
+  the problems are bad people. They are insurrectionists,” said Trump, repeating a term that some of 
+  his aides have used. Pushing back against Trump’s description of the protest, California officials 
+  have stated that the protests were confined to a relatively small area and were predominantly peaceful. 
+  When asked whether he supported statements from his border czar, Tom Homan, about arresting state 
+  officials who obstruct federal immigration raids, Trump responded, “I’d do it if I were Tom. I 
+  think it’s great. Gavin likes the publicity.” Asked about Homan’s comments on MSNBC, Newsom responded, 
+  “He’s a tough guy. Why doesn’t he do that? He knows where to find me. That kind of bloviating is 
+  exhausting. So, Tom, arrest me. Let’s go.”</li>
 
-– June 9, 2025 – Trump accused the protesters in Los Angeles of being “insurrectionists” 
-and suggested that California Governor Gavin Newsom should be arrested. “The people who 
-are causing the problems are bad people. They are insurrectionists,” said Trump, 
-repeating a term that some of his aides have used. Pushing back against Trump’s 
-description of the protest, California officials have stated that the protests were 
-confined to a relatively small area and were predominantly peaceful. When asked whether 
-he supported statements from his border czar, Tom Homan, about arresting state officials 
-who obstruct federal immigration raids, Trump responded, “I’d do it if I were Tom. I 
-think it’s great. Gavin likes the publicity.” Asked about Homan’s comments on MSNBC, 
-Newsom responded, “He’s a tough guy. Why doesn’t he do that? He knows where to find 
-me. That kind of bloviating is exhausting. So, Tom, arrest me. Let’s go.”
-
-– June 9, 2025 – Reneging on a promise made during his confirmation hearings, Health and 
+  <li>June 9, 2025 – Reneging on a promise made during his confirmation hearings, Health and 
 Human Services Secretary Robert F. Kennedy Jr., a longtime vaccine critic, fired all 
 seventeen members of the CDC’s advisory committee on immunization. The Advisory Committee 
 on Immunization Practices votes on which populations should receive vaccinations and 
@@ -975,22 +974,20 @@ received funding from Big Pharma and characterized the firings as “a bold step
 restoring public trust.” Experts quickly fired back. “Secretary Kennedy has not hidden 
 his anti-vaccine agenda. He, more than anyone in our country, has worked to undermine 
 people’s trust and confidence in vaccines,” said Dr. Richard Besser, the former acting 
-CDC director.
+CDC director.</li>
 
-– June 9, 2025 – Reviving a controversial measure from his first term, President Trump’s 
-new travel ban against predominantly African and Middle Eastern countries took effect. 
-The ban barred individuals from the following twelve countries from entering the US: 
-Afghanistan, Myanmar, Chad, the Republic of Congo, Equatorial Guinea, Eritrea, Haiti, 
-Iran, Libya, Somalia, Sudan, and Yemen. A partial ban, including heightened restrictions, 
-was also applied to individuals from Burundi, Cuba, Laos, Sierra Leone, Togo, 
-Turkmenistan, and Venezuela. “The recent terror attack in Boulder, Colorado, has 
-underscored the extreme dangers posed to our country by the entry of foreign nationals 
-who are not properly vetted,” Trump said in a video, referring to a firebombing attack 
-by a man who is from Egypt, which is not impacted by the travel ban. Amnesty 
-International called the travel ban “discriminatory, racist, and downright cruel.” 
-Trump’s first travel ban faced significant legal challenges, and former President 
-Joe Biden called it a “stain on our national conscience.”
-
+  <li>June 9, 2025 – Reviving a controversial measure from his first term, President Trump’s new travel 
+  ban against predominantly African and Middle Eastern countries took effect. The ban barred individuals 
+  from the following twelve countries from entering the US: Afghanistan, Myanmar, Chad, the Republic of 
+  Congo, Equatorial Guinea, Eritrea, Haiti, Iran, Libya, Somalia, Sudan, and Yemen. A partial ban, 
+  including heightened restrictions, was also applied to individuals from Burundi, Cuba, Laos, Sierra 
+  Leone, Togo, Turkmenistan, and Venezuela. “The recent terror attack in Boulder, Colorado, has underscored 
+  the extreme dangers posed to our country by the entry of foreign nationals who are not properly vetted,” 
+  Trump said in a video, referring to a firebombing attack by a man who is from Egypt, which is not impacted 
+  by the travel ban. Amnesty International called the travel ban “discriminatory, racist, and downright 
+  cruel.” Trump’s first travel ban faced significant legal challenges, and former President Joe Biden 
+  called it a “stain on our national conscience.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>President Donald J. Trump signs travel restrictions executive order (YouTube)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2922,56 +2919,63 @@ Research shows that gender-diverse minors face increased risks for mental health
 issues, substance use, and suicide, and that gender-affirming health care improves 
 overall well-being and quality of life.
 
-– January 28, 2025 – In her first White House briefing, Press Secretary Karoline Leavitt announced that the Elon Musk–led Department of Government Efficiency (DOGE) had prevented a planned $50 million from going “out the door to fund condoms in Gaza,” a “preposterous waste of taxpayer money.” Musk later reposted a video of Leavitt’s remarks with the comment “tip of the iceberg.” Leavitt’s claim was subsequently repeated and expanded upon by the president: “We identified and stopped $50 million being sent to Gaza to buy condoms for Hamas. They used them as a method of making bombs. How about that?” No evidence was offered to support Leavitt’s, Musk’s, or Trump’s claims. A federal report published in 2024 and now inaccessible on the United States Agency for International Development (USAID) website showed that the agency’s total worldwide spending on condoms in 2023 was only $7.1 million and that no condoms were provided or funded for the Middle East between 2021 and 2023.
+  * January 28, 2025 – In her first White House briefing, Press Secretary Karoline Leavitt announced that 
+  the Elon Musk–led Department of Government Efficiency (DOGE) had prevented a planned $50 million from 
+  going “out the door to fund condoms in Gaza,” a “preposterous waste of taxpayer money.” Musk later 
+  reposted a video of Leavitt’s remarks with the comment “tip of the iceberg.” Leavitt’s claim was 
+  subsequently repeated and expanded upon by the president: “We identified and stopped $50 million being 
+  sent to Gaza to buy condoms for Hamas. They used them as a method of making bombs. How about that?” 
+  No evidence was offered to support Leavitt’s, Musk’s, or Trump’s claims. A federal report published 
+  in 2024 and now inaccessible on the United States Agency for International Development (USAID) website 
+  showed that the agency’s total worldwide spending on condoms in 2023 was only $7.1 million and that 
+  no condoms were provided or funded for the Middle East between 2021 and 2023.
 
-– January 28, 2025 – The day after a passenger plane and Army helicopter collided mid-air 
-above the Potomac River in Washington, DC, Trump blamed the deadly crash on DEI. At the 
-time of Trump’s statement, an investigation into the cause of the crash was still ongoing. 
-Trump stated, without evidence, that a “diversity push” by the Federal Aviation 
-Administration had resulted in “hiring people with severe intellectual and psychiatric 
-disabilities.” “We have to have the smartest people,” said Trump, referring to air 
-traffic controllers. “It doesn’t matter what they look like, how they speak, who they 
-are.” When a reporter asked Trump directly whether he believed “this crash was somehow 
-caused as the result of diversity hiring,” Trump responded, “It just could have been.” 
-Sixty-seven people were killed in the collision, the first major US commercial 
-passenger crash since 2009.
+  * January 28, 2025 – The day after a passenger plane and Army helicopter collided mid-air above the 
+  Potomac River in Washington, DC, Trump blamed the deadly crash on DEI. At the time of Trump’s statement, 
+  an investigation into the cause of the crash was still ongoing. Trump stated, without evidence, that a 
+  “diversity push” by the Federal Aviation Administration had resulted in “hiring people with severe 
+  intellectual and psychiatric disabilities.” “We have to have the smartest people,” said Trump, referring 
+  to air traffic controllers. “It doesn’t matter what they look like, how they speak, who they are.” When 
+  a reporter asked Trump directly whether he believed “this crash was somehow caused as the result of 
+  diversity hiring,” Trump responded, “It just could have been.” Sixty-seven people were killed in the 
+  collision, the first major US commercial passenger crash since 2009.
 
-– January 30, 2025 – During his Senate confirmation hearing, Robert F. Kennedy Jr., 
-Trump’s nominee for secretary of health and human services, doubled down on past 
-statements that Black people have stronger immune systems than white people and should 
-receive vaccines on a different schedule. In response to questions from Senator Angela 
-Alsobrooks, who is Black, Kennedy said that a “series of studies” by the Mayo Clinic 
-have shown that “to particular antigens Blacks have a much stronger reaction.” Dr. 
-Richard Kennedy (no relation), a vaccine researcher at Mayo Clinic whom Robert F. 
-Kennedy cited during the hearing, said the health secretary nominee was “twisting the 
-data far beyond what they actually demonstrate.” Studies show that false beliefs about 
-biological differences between Black and white people are associated with racial 
-disparities in medical assessment and treatment.
-
+  *January 30, 2025 – During his Senate confirmation hearing, Robert F. Kennedy Jr., Trump’s nominee 
+  for secretary of health and human services, doubled down on past statements that Black people have 
+  stronger immune systems than white people and should receive vaccines on a different schedule. In 
+  response to questions from Senator Angela Alsobrooks, who is Black, Kennedy said that a “series of 
+  studies” by the Mayo Clinic have shown that “to particular antigens Blacks have a much stronger 
+  reaction.” Dr. Richard Kennedy (no relation), a vaccine researcher at Mayo Clinic whom Robert F. 
+  Kennedy cited during the hearing, said the health secretary nominee was “twisting the data far beyond 
+  what they actually demonstrate.” Studies show that false beliefs about biological differences between 
+  Black and white people are associated with racial disparities in medical assessment and treatment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Robert F. Kennedy testifying that Black people need fewer antigens than white people. (New York Post)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-– January 30, 2025 – The mass deportation operation spearheaded by Immigration and Customs Enforcement (ICE ) rattled immigrant communities across the country. A recent announcement by the Department of Homeland Security (DHS) stated that DHS officials would enter schools and churches to conduct raids. The deportation operation was meant to remove dangerous criminals. Trump’s border czar, Tom Homan, admitted to “collateral arrests.” The Trump administration said it had arrested 7,400 people in nine days, and White House and ICE officials highlighted several dozen arrested immigrants on social media. No information in the thousands of other cases was made available.
+  * January 30, 2025 – The mass deportation operation spearheaded by Immigration and Customs Enforcement 
+  (ICE ) rattled immigrant communities across the country. A recent announcement by the Department of 
+  Homeland Security (DHS) stated that DHS officials would enter schools and churches to conduct raids. 
+  The deportation operation was meant to remove dangerous criminals. Trump’s border czar, Tom Homan, 
+  admitted to “collateral arrests.” The Trump administration said it had arrested 7,400 people in nine 
+  days, and White House and ICE officials highlighted several dozen arrested immigrants on social media. 
+  No information in the thousands of other cases was made available.
 
-– January 31, 2025 – The Justice Department fired dozens of prosecutors and demanded a 
-list of FBI employees who had worked on investigations related to the January 6, 2021, 
-attack on the US Capitol. Emil Bove, the acting deputy attorney general, characterized 
-the initial hiring of these prosecutors during the Biden presidency as “subversive” and 
-concurred with Trump’s description of the Capitol attack investigations as “a grave 
-national injustice.” At the time of the Capitol attacks, Bove worked for the US Attorney’s 
-Office for the Southern District of New York and directed prosecutors to support the FBI’s 
-investigations. “At no point did I ever hear him or anybody else express concern about 
-these investigations and these arrests that we were making,” said Christopher O’Leary, 
-an FBI counterterrorism official who worked with Bove on the investigations.
+  * January 31, 2025 – The Justice Department fired dozens of prosecutors and demanded a list of FBI 
+  employees who had worked on investigations related to the January 6, 2021, attack on the US Capitol. 
+  Emil Bove, the acting deputy attorney general, characterized the initial hiring of these prosecutors 
+  during the Biden presidency as “subversive” and concurred with Trump’s description of the Capitol 
+  attack investigations as “a grave national injustice.” At the time of the Capitol attacks, Bove 
+  worked for the US Attorney’s Office for the Southern District of New York and directed prosecutors 
+  to support the FBI’s investigations. “At no point did I ever hear him or anybody else express concern 
+  about these investigations and these arrests that we were making,” said Christopher O’Leary, an FBI 
+  counterterrorism official who worked with Bove on the investigations.
 
-– January 31, 2025 – In compliance with Trump’s executive orders eliminating federal DEI 
-programs and requiring the government to recognize only two sexes, numerous Department of 
-Health and Human Services webpages and datasets were taken down, including CDC and NIH 
-pages related to HIV, LGBTQ+ health, STI treatment, and food safety during pregnancy. In 
-response, the Infectious Disease Society of America released a statement, noting that 
-the removal of these online resources was “deeply concerning” and created “a dangerous 
-gap in scientific information and data to monitor and respond to disease outbreaks.”
- 
+– January 31, 2025 – In compliance with Trump’s executive orders eliminating federal DEI programs and 
+  requiring the government to recognize only two sexes, numerous Department of Health and Human Services 
+  webpages and datasets were taken down, including CDC and NIH pages related to HIV, LGBTQ+ health, STI 
+  treatment, and food safety during pregnancy. In response, the Infectious Disease Society of America 
+  released a statement, noting that the removal of these online resources was “deeply concerning” and 
+  created “a dangerous gap in scientific information and data to monitor and respond to disease outbreaks.”
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
