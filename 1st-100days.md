@@ -3,3 +3,5 @@ Throughout President Trump’s first 100 days, the Fact Checker team tracked fal
 Update: See the Fact Checker’s ongoing claims database, 365 days of Trump’s claims
 
 ### As of Trump’s 100th day, we counted 492 false or misleading claims.
+
+https://www.washingtonpost.com/graphics/politics/trump-claims/
