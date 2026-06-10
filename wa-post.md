@@ -5,27 +5,22 @@ This is Trump’s favorite false claim, so there should be no surprise he said i
 ## Repeated 493 times:
 
 
-## “The change began with the termination of the Trans-Pacific Partnership — a 12-nation pact that would have 
-## shipped millions more jobs to other countries.”
+## “The change began with the termination of the Trans-Pacific Partnership — a 12-nation pact that would have shipped millions more jobs to other countries.”
 
 ### Fact Check:
 Predicting job losses or gains from a trade agreement is fairly difficult and often inaccurate but no credible analyst projected the loss of "millions" of U.S. jobs from the TPP.
 
-## “After years of federal contracts going to foreign bidders, we are ensuring that government agencies 
-## enforce “Buy American” rules and give preference to American companies — and that American companies 
-## hire American workers.”
+## “After years of federal contracts going to foreign bidders, we are ensuring that government agencies enforce “Buy American” rules and give preference to American companies — and that American companies hire American workers.”
 
 ### Fact Check:
 Trump now calls for Americans to “buy American, hire American.” But this is misleading. Trump has a long history of outsourcing a variety of his own products. The Fact Checker has counted a total of 12 countries where Trump products were manufactured (China, the Netherlands, Mexico, India, Turkey, Slovenia, Honduras, Germany, Bangladesh, Indonesia, Vietnam and South Korea).
 
-## “We are going to pursue a complete renegotiation of the North American Free Trade Agreement: We’ve lost nearly 
-## a third of our manufacturing jobs in the 23 years since that terrible deal was approved.”
+## “We are going to pursue a complete renegotiation of the North American Free Trade Agreement: We’ve lost nearly a third of our manufacturing jobs in the 23 years since that terrible deal was approved.”
 
 ### Fact Check:
 Trump’s attack on NAFTA is over the top. It is often difficult to separate out the impact of trade agreements on jobs, compared to other, broader economic trends. But the nonpartisan Congressional Research Service in 2015 concluded the “net overall effect of NAFTA on the U.S. economy appears to have been relatively modest, primarily because trade with Canada and Mexico accounts for a small percentage of U.S. GDP,” though it noted “there were worker and firm adjustment costs as the three countries adjusted to more open trade and investment among their economies.”
 
-## “We are going to pursue a complete renegotiation of the North American Free Trade Agreement: 
-## We’ve lost nearly a third of our manufacturing jobs in the 23 years since that terrible deal was approved.”
+## “We are going to pursue a complete renegotiation of the North American Free Trade Agreement: We’ve lost nearly a third of our manufacturing jobs in the 23 years since that terrible deal was approved.”
 
 ### Fact Check:
 Trump’s attack on NAFTA is over the top. It is often difficult to separate out the impact of trade agreements on jobs, compared to other, broader economic trends. But the nonpartisan Congressional Research Service in 2015 concluded the “net overall effect of NAFTA on the U.S. economy appears to have been relatively modest, primarily because trade with Canada and Mexico accounts for a small percentage of U.S. GDP,” though it noted “there were worker and firm adjustment costs as the three countries adjusted to more open trade and investment among their economies.”
