@@ -19,3 +19,15 @@ Democrats have built a strong coalition of stakeholders both in and out of gover
 litigate, and terminate the dangerous and unlawful abuses of DOGE and the Trump-Musk Administration. 
 We are forcing Co-Presidents Trump and Musk into retreat on several fronts:
 
+While Americans struggle to buy groceries and pay rent, Donald Trump is making his family richer through digital grift schemes— collecting profits through digital wallets and granting pardons to the highest bidders.
+ 
+While Trump and his family are using the White House to make billions, we are tracking every cent. As of 
+January 2026, our Committee’s analysis shows that these schemes have contributed to an estimated $2.25 
+billion in realized profits for Trump from foreign payments, corrupt oligarchs, and others.
+ 
+This total rises to as much as $9.7 billion when the value of Trump’s digital assets is factored in, 
+with as much as $600 million coming from foreign interests. President Trump should be serving the 
+American people—not his own pockets.
+
+
+<p><a href="https://oversightdemocrats.house.gov/trump-family-corruption-tracker">Trump Grift tracker</a>.</p>
