@@ -1,4 +1,7 @@
 User-Agent: *
-Disallow: 
+Disallow: DOGE.md, Hustler.md, Oversight.md, The-New-Republic.html, 
+  TrumpCorruptionCultureReport1.pdf, cuts-in-DSHS.pdf, kleptocracy.md, 
+  senate-expose-Trump.md, ssrn-5387414.pdf, the-new-republic.md, top10.md,
+  wa-post.md
 
 Sitemap: https://github.com/bbauska/trump-grift-25
