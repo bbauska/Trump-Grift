@@ -155,90 +155,47 @@ from the White House on this ballroom asking who are the private donors and how 
 do they have? What business do they have before the federal business do they have before the federal government? 
 
 Their response, not surprisingly, no response, not willing to say, not willing to be transparent, wanting to keep it hidden 
-from the American people. But we know that there are at least 37 donors, among them, Amazon and Apple and Google and Meta 
-and Microsoft and Coinbase and Tether and Caterpillar and Loheed Martin and T-Mobile and more. Of these corporate donors, 
-twothirds have been awarded federal contracts over the last five years, contracts worth $279 billion. And 14 of them are 
-either facing or have had suspended federal actions for violations of the law. So, let's get this straight. Companies under 
-federal investigation, many of them, write a check for the president's ballroom and their legal troubles go away or their 
-contracts multiply or in some cases both. Trump even told these donors they'd be the first guest welcomed into the finished 
-ballroom. Quote, "If I still like you at that time, which I'm sure I will, translation, keep paying and I'll keep liking you." 
-The cost of this liking you." The cost of this corruption, hundreds of millions in taxpayer funding that could go to building 
-new hospitals in your community or building new schools or keeping the ones near you open, go to a ballroom instead. Hundreds 
-of daycare centers that could have received funding so you don't have to pay so much for child care or so there is even child 
-care in your area. But instead of building roads or bridges, hospitals or health care clinics or child care, the president 
-is building a gaudy gold toll booth in place of the east wing and federal contracts are going to the biggest donors, not the 
-best biggest donors, not the best competitors. And that could cost you billions more in And that could cost you billions more 
-in taxes. Number four of the top 10 Trump grift and graft the Qatari jet worth $400 and graft the Qatari jet worth $400 million.
+from the American people. But we know that there are at least 37 donors, among them, **Amazon** and **Apple** and **Google** 
+and **Meta** and **Microsoft** and **Coinbase** and **Tether** and **Caterpillar** and **Lockeed Martin** and **T-Mobile** and 
+more. Of these corporate donors,  two-thirds have been awarded federal contracts over the last five years. Contracts worth 
+$279 billion. And 14 of them are either facing or have had suspended federal actions for violations of the law. 
 
-Number four is the gift that keeps on taking a $400 million luxury gifted by the government of Qatar to serve as Air Force One through the end of Trump's
-term and then
-transferred to Trump's own museum
-foundation his to keep. He took his
-maiden flight aboard it just a few weeks
-ago. And while the president insists the
-plane is free, outfitting it to serve
-Air Force One as Air Force One could
-cost American taxpayers up to a billion
-dollar in security upgrades. A billion
-dollars for this free jet that he gets
-to keep, paid for by you, the taxpayer,
-and his generous friends, the Qataris.
-and let's not pretend there's nothing
-expected in return. Trump himself
-volunteered that the United States
-provide security for Qatar and will
-continue to. He also explained that only
-a stupid person turns down a free, very
-expensive airplane. Only a stupid person
-would turn it down. How could he refuse?
-So, a foreign government hands the
-president a $400 million jet. We pay a
-billion in taxes to make it usable. He
-keeps it when he leaves office. And if
-you think that's corrupt, he thinks
-you're the stupid one.
-That is not a gift to America. It's a
-gift to Donald Trump. Paid for by the
-American taxpayer, courtesy of a foreign
-government that now holds a great deal
-of leverage over the president.
-The same foreign government whose wealth
-fund is investing in developing the Doha
-Trump International Golf Club, complete
-with luxury villas and 18 holes of
-worldclass golf. The cost of this
-worldclass golf. The cost of this corruption,
-American foreign policy, our national
-security interests in the region now
-skewed towards a country that gives the
-president exorbitant gifts or develops
-real estate deals with his family. That
-is not putting America first, but
-putting it last, well behind his family
-and personal interests in a plane and
-golf courses.
-Which brings us to number three. Big law
-firm deals worth 940
-firm deals worth 940 million.
-At three, the numbers have turned even
-more staggering. After a barrage of
-executive orders targeting the legal
-profession, nine wealthy law firms
-struck deals with the administration
-pledging nearly 1 billion dollars in pro
-bono services to make those threats go
-away. Threats to disfavor their clients.
-Threats to take their security
-clearances away so they couldn't
-represent other clients. Threats to look
-unfavorably on the mergers their clients
-want. government contracts or lucrative
-deals favored by their clients.
-Now, this money didn't land directly in
-the president's bank account. This is
-value he extracted nearly a billion
-dollars in legal work, redirected to
-causes he favors, surrendered by law
+So, let's get this straight. Companies under federal investigation, many of them, write a check for the president's ballroom and 
+their legal troubles go away or their contracts multiply or in some cases both. Trump even told these donors they'd be the first 
+guest welcomed into the finished ballroom. Quote, "If I still like you at that time, which I'm sure I will, translation, keep 
+paying and I'll keep liking you." The cost of this liking you." The cost of this corruption, hundreds of millions in taxpayer 
+funding that could go to building new hospitals in your community or building new schools or keeping the ones near you open, 
+go to a ballroom instead. Hundreds of daycare centers that could have received funding so you don't have to pay so much for child 
+care or so there is even child care in your area. But instead of building roads or bridges, hospitals or health care clinics or 
+child care, the president is building a gaudy gold toll booth in place of the east wing and federal contracts are going to the 
+biggest donors, not the best. Biggest donors, not the best competitors. And that could cost you billions more 
+in taxes. Number ***four*** of the top **10** Trump grift and graft, the Qatari jet worth $400 million.
+
+Number ***four*** is the gift that keeps on taking. A $400 million luxury jet gifted by the government of Qatar to serve as Air 
+Force One through the end of Trump's term and then transferred to Trump's own museum foundation. His to keep. He took his maiden 
+flight aboard it just a few weeks ago. And while the president insists the plane is free, outfitting it to serve Air Force One as 
+Air Force One will cost American taxpayers up to a billion dollar in security upgrades. A billion dollars for this free jet that 
+he gets to keep, paid for by you, the taxpayer, and his generous friends, the Qataris.
+
+And let's not pretend there's nothing expected in return. Trump himself volunteered that the United States provide security for 
+Qatar and will continue to. He also explained that only a stupid person turns down a free, very expensive airplane. Only a stupid 
+person would turn it down. How could he refuse? So, a foreign government hands the president a $400 million jet. We pay a billion 
+in taxes to make it usable. He keeps it when he leaves office. And if you think that's corrupt, he thinks you're the stupid one.
+
+That is not a gift to America. It's a gift to Donald Trump. Paid for by the American taxpayer, courtesy of a foreign government that 
+now holds a great deal of leverage over the president. The same foreign government whose wealth fund is investing in developing the 
+Donald Trump International Golf Club, complete with luxury villas and 18 holes of worldclass golf. The cost of this worldclass golf. 
+The cost of this corruption, American foreign policy, our national security interests in the region now skewed towards a country that 
+gives the president exorbitant gifts or develops real estate deals with his family. That is not putting America first, but putting it 
+last. Well behind his family and personal interests in a plane and golf courses.
+
+Which brings us to number ***three***. Big law firm deals worth 940 firm deals worth 940 million. At ***three***, the numbers have 
+turned even more staggering. After a barrage of executive orders targeting the legal profession, nine wealthy law firms struck deals 
+with the administration pledging nearly 1 billion dollars in pro bono services to make those threats go away. Threats to disfavor their 
+clients. Threats to take their security clearances away so they couldn't represent other clients. Threats to look unfavorably on the 
+mergers their clients want. government contracts or lucrative deals favored by their clients. Now, this money didn't land directly in
+the president's bank account. This is value he extracted nearly a billion dollars in legal work, redirected to causes he favors, 
+surrendered by law
 firms who were afraid of what he might
 do to them if they refused. And who
 negotiated these deals? Reportedly,
@@ -512,44 +469,23 @@ have reintroduced it in the Senate. But
 as the law as the list of laws and guard
 rails shattered multiplies, the need for
 corrective action must multiply with it.
-Just this week, I have introduced three
-additional bills meant to attack
-conflicts of interest, keep convicted
-fraudsters out of the government, and
-tighten our laws against the bribery of
-public officials. In the weeks and
-months to come, we must propose the best
-laws that we can meant to constrain the
-worst impulses of human nature.
-But we must be mindful of this truth as
-well. And that is
-no set of laws no matter no matter how
-no set of laws no matter no matter how wellconceived,
-no constitution, no matter how
-brilliantly constructed
-can protect our lives, our liberty, our
-prosperity, if elected officials are
-unwilling to live up to their oaths or
-to accept the truth or to put their
-country over their party, none of it
-will be enough.
-We must also return prosperity to
-We must also return prosperity to America.
-We must make it possible that when
-people are working hard, they can earn a
-good living for themselves and their
-families. When people see the lives that
-their parents had as better,
-all too many are willing to entertain
-and put their fate in the hands of any
-demagogue who promises that they alone
-can fix it. Our democracy will not be on
-solid ground
-until our economy is working again for
-all Americans.
-When the founders gathered in
-Philadelphia in the sweltering summer of
-Philadelphia in the sweltering summer of 1787,
+
+Just this week, I have introduced three additional bills meant to attack conflicts of interest, keep 
+convicted fraudsters out of the government, and tighten our laws against the bribery of public officials. 
+In the weeks and months to come, we must propose the best laws that we can meant to constrain the worst 
+impulses of human nature. But we must be mindful of this truth as well. And that is no set of laws no 
+matter no matter how no set of laws no matter no matter how wellconceived, no constitution, no matter how 
+brilliantly constructed can protect our lives, our liberty, our prosperity, if elected officials are 
+unwilling to live up to their oaths or to accept the truth or to put their country over their party, none 
+of it will be enough. We must also return prosperity to We must also return prosperity to America. We must 
+make it possible that when people are working hard, they can earn a good living for themselves and their 
+families. 
+
+When people see the lives that their parents had as better, all too many are willing to entertain and 
+put their fate in the hands of any demagogue who promises that they alone can fix it. Our democracy will 
+not be on solid ground until our economy is working again for all Americans.
+
+When the founders gathered in Philadelphia in the sweltering summer of Philadelphia in the sweltering summer of 1787,
 they debated a great many things.
 But one fear united them across every
 divide. The fear of corruption.
@@ -597,20 +533,11 @@ you're not making decisions based on
 what's right for the country. You're
 making them based on who's been generous
 to you as president.
-My colleagues, the White House has
-become a marketplace
-and the presidency a crooked family
-and the presidency a crooked family business.
-Every one of these transactions,
-the dozens we know about and the many
-more we surely don't,
-raises profound questions
-about the influence of foreign
-about the influence of foreign governments
-and the buying and selling of American
-and the buying and selling of American policy,
-American justice and American democracy
-American justice and American democracy itself.
+
+My colleagues, the White House has become a marketplace and the presidency a crooked family business.
+Every one of these transactions, the dozens we know about and the many more we surely don't,
+raises profound questions about the influence of foreign governments and the buying and selling 
+of America. And the buying and selling of American policy, American justice and American democracy itself.
 
 Every single day this continues. Our democracy is weakened. Our institutions are compromised. The office of the presidency is 
 degraded and the costs come out of your pocket. Out of your pocket. But here's the thing. The founders and their warning to 
