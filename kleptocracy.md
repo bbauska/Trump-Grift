@@ -1,4 +1,4 @@
-Kleptocracy Since Ronald Reagan
+## Kleptocracy Since Ronald Reagan
 
 The term kleptocracy—governance by those who use public office for personal wealth and private gain—
 is frequently used by political scientists, legal scholars, and corruption watchdogs to describe the 
@@ -11,7 +11,7 @@ The primary policy shifts, actions, and institutional
 changes that critics point to as evidence of a burgeoning American kleptocracy include the 
 following:
 
-1. De-prioritizing Anti-Corruption Enforcement
+### 1. De-prioritizing Anti-Corruption Enforcement
   
   Disbanding anti-kleptocracy units: 
   The administration disbanded the Department of Justice’s (DOJ) National Cryptocurrency 
@@ -26,7 +26,7 @@ following:
   corruption, was heavily downsized, stripping its ability to independently file new cases against 
   public officials.
   
-2. Commercialization of Public Office & "Web3 Grifting"
+### 2. Commercialization of Public Office & "Web3 Grifting"
 
   Crypto and Memecoins: Family businesses linked to the administration actively mint Trump-themed 
   meme coins and corporate stablecoins while concurrently rolling back federal crypto regulations 
@@ -39,7 +39,7 @@ following:
   personal digital assets are granted direct access to private political functions and executive 
   policy-makers.
   
-3. Civil Service Purges and Institutional Dismantling
+### 3. Civil Service Purges and Institutional Dismantling
 
   Dismantling Aid Agencies: The administration effectively dismantled the U.S. Agency for International 
   Development (USAID), which historically managed overseas foreign assistance.
@@ -52,7 +52,7 @@ following:
   administration to purge independent, non-partisan experts and fill regulatory agencies with 
   political operatives.
   
-4. Weaponization of Presidential Pardons
+### 4. Weaponization of Presidential Pardons
 
   Pardoning Financial Criminals: The administration has frequently used its executive pardon power to 
   grant clemency to individuals convicted of major international financial crimes and large-scale 
@@ -62,7 +62,7 @@ following:
   to political cronies, creating an environment that legal watchdogs describe as an established culture 
   of absolute impunity.
   
-5. Systematic Real Estate and Corporate Self-Dealing
+### 5. Systematic Real Estate and Corporate Self-Dealing
 
   Monetizing Official Properties: The use of Trump-owned hotels, clubs, and resorts for official government 
   business and foreign diplomatic events funnels millions in taxpayer and foreign state funds directly into 
