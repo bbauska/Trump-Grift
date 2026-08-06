@@ -1,3 +1,4 @@
+## Senator Exposes Trump
 Mr. President, more than a year and a half ago, when Donald Trump placed his hand on a Bible and took the oath of 
 office for the second time, he swore to preserve, protect, and defend the Constitution. 
 
